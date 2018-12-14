@@ -7,9 +7,9 @@
        external_url 'https://192.168.56.1'
        # Add any other gitlab.rb configuration here, each on its own line
    ports:
-     - '80:80'
-     - '443:443'
-     - '22:22'
+     - '8090:80'
+     - '8443:443'
+     - '2222:22'
    volumes:
      - '/srv/gitlab/config:/etc/gitlab'
      - '/srv/gitlab/logs:/var/log/gitlab'
