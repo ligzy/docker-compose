@@ -19,6 +19,7 @@
 | [rabbitmq](rabbitmq) | RabbitMQ是一个在AMQP基础上完成的，可复用的企业消息系统。他遵循Mozilla Public License开源协议。 |
 | [jumpserver](jumpserver) | Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。 |
 | [php](php) | php快速开发环境，包含grpc扩展 |
+| [https://hub.docker.com/r/chenchuxin/apollo](apollo) | Apollo配置中心docker |
 
 
 ## 备注
